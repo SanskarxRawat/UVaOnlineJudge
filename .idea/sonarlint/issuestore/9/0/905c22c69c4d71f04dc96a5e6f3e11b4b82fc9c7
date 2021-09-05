@@ -1,0 +1,10 @@
+
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éý§æ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‹æ
+R
+java:S1854"7Remove this useless assignment to local variable "out".(¸‘Â¬þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸‘Â¬þÿÿÿÿ
+C
+java:S1481"(Remove this unused "out" local variable.(¸‘Â¬þÿÿÿÿ
